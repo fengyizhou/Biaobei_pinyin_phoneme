@@ -1,0 +1,2 @@
+# 标贝数据集中的拼音对音素
+Biaobei_pinyin_2phoneme
